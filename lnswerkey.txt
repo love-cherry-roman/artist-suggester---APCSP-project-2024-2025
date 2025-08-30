@@ -1,0 +1,115 @@
+*slow + piano/drums/guitar
+fiona apple
+weyes blood 
+jeff buckley
+cocteau twins
+margo guryan
+
+*slow + woodwind/string/electronic
+joanna newsom
+boygenius
+ichiko aoba
+lamp
+laufey
+
+*med + piano/drums/guitar
+taylor swift
+gracie abrams
+beabadoobee
+olivia rodrigo
+billie eilish
+
+*med + woodwing/string/electronic
+enya
+bjork
+abba
+gary numan
+aphex twin
+
+*fast/very fast + piano/grums/guitar
+siouxsie and the banshees
+the smiths
+sinead oconnor
+the cranberries
+the cure
+
+*fast/very fast + woodwind/string/electronic
+hozier
+noah kahan
+the lumineers
+zach bryson
+kacey musgraves
+
+
+
+*low/med bass + sad/angry
+up dharma down
+clairo
+sade
+portishead
+willow smith
+
+*low/med bass + happy/other
+EXO
+crayon pop
+camila cabello
+bigbang
+arca
+
+*high/extreme bass + sad/angry
+PJ Harvey
+Radiohead
+the sugar cubes
+shygirl
+magdalena bay
+
+*high/extreme bass + happy/other
+Seedbean
+Frums
+Kobaryo
+XH
+f5ve
+
+
+
+*low / med energy + none/singing
+ethel cain
+plum
+thuy
+rollercoaster
+caroline polachek
+
+*low / med energy + rapping 
+ms. lauryn hill
+sza
+the weeknd
+jhene aiko
+solange
+
+*low/med energy + storytelling/other
+erykah badu
+2pac
+j. cole
+tyler, the creator
+nas
+
+*high/extreme energy + none/singing
+XI
+GFOTY
+SOPHIE
+namasenda
+camellia
+
+*high/extreme energy + rapping
+bladee
+eminem
+busta rhymes
+outkast
+kendrick lamar
+
+*high/extreme + storytelling/other
+kate bush
+doechii
+pheobe bridgers
+the fugees
+MF DOOM
